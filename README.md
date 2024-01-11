@@ -12,10 +12,10 @@ Login and Registration form for user.
 = 1.0.0 - 11/01/2024 =
 * Initial release
 
-Steps to connect the database:
- Step 1: Execute the query - CREATE DATABASE form;
- Step 2: Go to the import tap and select db from db folder of the project.
- Step 3: Click the import button.
+Steps to connect the database:  
+ Step 1: Execute the query - CREATE DATABASE form;  
+ Step 2: Go to the import tap and select db from db folder of the project.  
+ Step 3: Click the import button.  
 
 Example video for import databse and tables:
 
